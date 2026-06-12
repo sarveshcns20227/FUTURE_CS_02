@@ -1,1 +1,13 @@
+Subject: Microsoft 365 Password Expiry Notice
 
+Dear Employee,
+
+Your Microsoft 365 password will expire today.
+
+Click below to keep your account active:
+
+http://microsoft-password-reset[.]xyz
+
+Failure to act will result in account suspension.
+
+IT Support Team
