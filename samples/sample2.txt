@@ -1,1 +1,13 @@
+Subject: Invoice Payment Required
 
+Dear Customer,
+
+Your recent invoice remains unpaid.
+
+Please review the attached invoice and make payment immediately to avoid service interruption.
+
+Attachment:
+Invoice_Payment.zip
+
+Regards,
+Accounts Department
